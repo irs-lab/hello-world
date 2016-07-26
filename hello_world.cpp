@@ -8,20 +8,7 @@ int main()
   std::cout << "eunmi cheon" << std::endl;
   std::cout << "Hanseom Jeong" << std::endl;
 
-// avc
-
-//test
-
-//branch-test
-//?????
-
-
-
-//Master_commit_new
-
-//new_master
-//commit
-
+//br2
 
   return 1;
 }
